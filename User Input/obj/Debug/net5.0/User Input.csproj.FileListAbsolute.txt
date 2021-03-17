@@ -1,0 +1,16 @@
+D:\Important Documents\GitHub Codes\C#\User Input\obj\Debug\net5.0\User Input.csprojAssemblyReference.cache
+D:\Important Documents\GitHub Codes\C#\User Input\obj\Debug\net5.0\User Input.GeneratedMSBuildEditorConfig.editorconfig
+D:\Important Documents\GitHub Codes\C#\User Input\obj\Debug\net5.0\User Input.AssemblyInfoInputs.cache
+D:\Important Documents\GitHub Codes\C#\User Input\obj\Debug\net5.0\User Input.AssemblyInfo.cs
+D:\Important Documents\GitHub Codes\C#\User Input\obj\Debug\net5.0\User Input.csproj.CoreCompileInputs.cache
+D:\Important Documents\GitHub Codes\C#\User Input\bin\Debug\net5.0\User Input.exe
+D:\Important Documents\GitHub Codes\C#\User Input\bin\Debug\net5.0\User Input.deps.json
+D:\Important Documents\GitHub Codes\C#\User Input\bin\Debug\net5.0\User Input.runtimeconfig.json
+D:\Important Documents\GitHub Codes\C#\User Input\bin\Debug\net5.0\User Input.runtimeconfig.dev.json
+D:\Important Documents\GitHub Codes\C#\User Input\bin\Debug\net5.0\User Input.dll
+D:\Important Documents\GitHub Codes\C#\User Input\bin\Debug\net5.0\ref\User Input.dll
+D:\Important Documents\GitHub Codes\C#\User Input\bin\Debug\net5.0\User Input.pdb
+D:\Important Documents\GitHub Codes\C#\User Input\obj\Debug\net5.0\User Input.dll
+D:\Important Documents\GitHub Codes\C#\User Input\obj\Debug\net5.0\ref\User Input.dll
+D:\Important Documents\GitHub Codes\C#\User Input\obj\Debug\net5.0\User Input.pdb
+D:\Important Documents\GitHub Codes\C#\User Input\obj\Debug\net5.0\User Input.genruntimeconfig.cache
